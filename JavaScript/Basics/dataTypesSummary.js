@@ -29,3 +29,25 @@ const myFunction = function(){
     console.log("Hello Devraj");
     
 }
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack (Premitive), Heap (Non-Premitive)
+
+let myYoutubeName = "addashree"
+let anotherName = myYoutubeName
+anotherName = "devraj Kumhar"
+
+console.log(myYoutubeName);
+console.log(anotherName);
+
+let userOne = {
+    email: "user@google.com",
+    upi: "user@ybl"
+}
+let userTwo = userOne
+userTwo.email = "devraj@google.com"
+
+console.log(userOne);
+console.log(userTwo);
+
