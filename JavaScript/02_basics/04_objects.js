@@ -59,3 +59,15 @@ users[1].gmail;
 // console.log(tinderUser.hasOwnProperty('isLoggedIn'));
 
 
+const course = {
+    courseName: 'JS Full Course',
+    Price: '99',
+    CourseGuide: 'Hmm'
+}
+
+// console.log(course.CourseGuide);
+
+// const {Price} = course;
+// console.log(Price); 
+const {Price: paise} = course //we can change the name also 
+console.log(paise);
