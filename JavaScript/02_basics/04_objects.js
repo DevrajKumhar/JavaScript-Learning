@@ -71,3 +71,22 @@ const course = {
 // console.log(Price); 
 const {Price: paise} = course //we can change the name also 
 console.log(paise);
+
+
+/* API(Application programming interface) or JSON(JAvaScript Object Notation) format:- */
+
+// API in object form:- 
+
+// {
+//     "name": "Devarj"
+//     "course": "HTML"
+//     "Price": "free"
+// }
+
+// API in array format:- 
+
+// [
+//     {},
+//     {},
+//     {}
+// ]
