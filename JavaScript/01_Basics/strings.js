@@ -7,7 +7,7 @@ const repoCount = 50
 // backticks -> (` `)
 //console.log(`Hello my name is ${name} and my repo count is ${repoCount}`);
 
-const gameName = new String('Devraj-Kumhar-shahapura')
+const gameName = new String('Devraj-Kumhar-shahpura')
 
 // console.log(gameName[0]);
 // console.log(gameName.__proto__);
